@@ -108,8 +108,4 @@ Sinta-se à vontade para contribuir com melhorias, novas funcionalidades ou corr
 
 4. Abra um Pull Request.
 
-## Licença
-
-Este projeto está licenciado sob a MIT License.
-
 
