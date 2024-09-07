@@ -61,10 +61,13 @@ Clone o repositório para o seu ambiente local:
 ```bash
 git clone https://github.com/seu-usuario/gerador-de-senhas.git
 
-
-### Rodando a aplicação
-
-Clone o repositório para o seu ambiente local:
+## Navegue até o diretório do projeto:
 
 ```bash
-git clone https://github.com/seu-usuario/gerador-de-senhas.git
+cd gerador-de-senhas
+
+## Execute a aplicação:
+
+```bash
+python app.py
+
