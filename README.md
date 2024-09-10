@@ -1,5 +1,5 @@
 
-# Gerador de Senhas Seguras - Aplicação Web com Flask
+# Gerador de Senhas Seguras - Aplicação Web
 
 Este projeto é uma aplicação web simples para gerar senhas seguras. O usuário pode definir o comprimento da senha e personalizar os tipos de caracteres incluídos (letras maiúsculas, letras minúsculas, números e símbolos).
 
